@@ -13,4 +13,4 @@ Notre projet est composé de plusieurs notebooks répartis dans 5 dossiers :
 ## Collaborateurs
 - [martincrz](github.com/martincrz)
 - [sacha-sz](github.com/sacha-sz)
-- [Th3o-D](github.com/Th3o-D)
+- [theodubus](github.com/theodubus)
